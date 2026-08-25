@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.0",
-  "build": 6,
+  "version": "1.4.0",
+  "build": 7,
   "minimumSystemVersion": "14.0",
-  "publishedAt": "2026-08-25T03:50:42Z",
-  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.3.0",
+  "publishedAt": "2026-08-25T04:28:40Z",
+  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.4.0",
   "releaseNotes": [
-    "Added safe CSV import and export.",
-    "Supports UTF-8, UTF-16, quoted fields, duplicate protection, and Excel-compatible files."
+    "Added offline Chinese meaning and part-of-speech auto-fill.",
+    "Added optional online grammar fallback and macOS update checks."
   ]
 }
