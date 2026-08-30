@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "1.6.0",
-  "build": 10,
+  "version": "1.7.0",
+  "build": 11,
   "minimumSystemVersion": "14.0",
-  "publishedAt": "2026-08-30T03:29:37Z",
-  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.6.0",
+  "publishedAt": "2026-08-30T23:02:17Z",
+  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.7.0",
   "releaseNotes": [
-    "Added automatic learning progress with cooldown and daily limits.",
-    "Added spelling quizzes, spaced review dates, and automatic mastery transitions.",
-    "Added JSON and CSV backup support for learning progress."
+    "Added custom scene groups and bundled Supermarket, Restaurant, and Gym presets.",
+    "Added multi-scene word assignment, manual ordering, and scene learning-progress summaries.",
+    "Added scene-aware JSON and CSV import/export while preserving compatibility with older files."
   ]
 }
