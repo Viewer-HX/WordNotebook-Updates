@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "1.4.0",
-  "build": 7,
+  "version": "1.6.0",
+  "build": 10,
   "minimumSystemVersion": "14.0",
-  "publishedAt": "2026-08-25T04:28:40Z",
-  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.4.0",
+  "publishedAt": "2026-08-30T03:29:37Z",
+  "releasePageURL": "https://github.com/Viewer-HX/WordNotebook/releases/tag/v1.6.0",
   "releaseNotes": [
-    "Added offline Chinese meaning and part-of-speech auto-fill.",
-    "Added optional online grammar fallback and macOS update checks."
+    "Added automatic learning progress with cooldown and daily limits.",
+    "Added spelling quizzes, spaced review dates, and automatic mastery transitions.",
+    "Added JSON and CSV backup support for learning progress."
   ]
 }
